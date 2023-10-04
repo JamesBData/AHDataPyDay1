@@ -41,6 +41,8 @@ print(area)
 # concatenate
 title = "Sir " + name;
 
+#clone and push
+it = "clone and push"
 
 
 
