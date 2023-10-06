@@ -39,10 +39,33 @@ area = side ** 2
 print(area)
 
 # concatenate
-title = "Sir " + name;
+#title = "Sir " + name;
 
 #clone and push
-it = "clone and push"
+#it = "clone and push"
+
+# Comparison Ops
+# == equal num == 360
+#
+
+# Logical ops
+# year >= 1900 and year < 2000
+#day
+
+# if/ else if / else statements
+# if true
+
+name = "Adam"
+tired = False
+
+if name == "Adam" and not tired:
+    print("Adam is not tired.")
+else:
+    print("Something is not right...")
+
+# Ternary Operator
+age = print(int(input("What is your age?")))
+ticket = 'child' if age < 13 else 'adult'
 
 
 

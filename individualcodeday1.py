@@ -25,13 +25,7 @@ num6 = float(input("Enter another number: "))
 print("The total is: " +str(num5 / num6)+".")
 
 #Excersize1.7
-t_f = print(input("The world is flat, true or false: "))
 
-if t_f = "True"
-    print("You entered: True")
-if
-    t_f = "False","false"
-    print("You entered: False")
 
 
 
